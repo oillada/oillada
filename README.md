@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+- 💻 I’m Software Developer
+- 🤘 I'm a lover of metal music
+- ⚫🤖⚔️ I'm a Star Wars, Thundercats, TMNT, Friday the 13th, Robocop, Critters and SilverHawks fan
+- ⚽ I'm great fan of Club Nacional de Football 🔴🔵⚪ and Real Madrid ⚪⚪⚪
 <!--
-**oillada/oillada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oilladaMELI/oilladaMELI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
